@@ -1,0 +1,38 @@
+.custom-preview-item .MuiDropzonePreviewList-image {
+  width: 100%;
+  height: 0%;
+}
+
+/* .custom-preview-container .MuiDropzonePreviewList-removeButton {
+  right: 0;
+  top: 0;
+} */
+
+/* .upload-logo {
+  display: $ {
+    logouploaded?"none": "block";
+  }
+} */
+
+/* .MuiDropzoneArea-icon {
+  background-color: red;
+} */
+
+/* .MuiDropzonePreviewList-imageContainer {
+  background-color: green;
+} */
+
+.custom-dropzone-area {
+  border: 2px dashed #bdbdbd;
+  transition: border-color 0.3s ease-in-out;
+}
+
+.custom-dropzone-area.active {
+  border-color: blue;
+}
+
+/* .dropzone {
+  width: 100%;
+  height: 20%;
+  border: 1px solid black;
+} */
